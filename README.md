@@ -4,7 +4,6 @@
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-red)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Colab-yellow)
 ![Status](https://img.shields.io/badge/Project-Research%20Study-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ## Overview
 
